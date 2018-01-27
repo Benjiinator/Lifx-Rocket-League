@@ -1,0 +1,12 @@
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\bin\Debug\RocketLeagueLifx.exe.config
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\bin\Debug\RocketLeagueLifx.exe
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\bin\Debug\RocketLeagueLifx.pdb
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\bin\Debug\Memory.dll
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\bin\Debug\Memory.xml
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\obj\Debug\RocketLeagueLifx.csprojResolveAssemblyReference.cache
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\obj\Debug\RocketLeagueLifx.Properties.Resources.resources
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\obj\Debug\RocketLeagueLifx.csproj.GenerateResource.Cache
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\obj\Debug\RocketLeagueLifx.csproj.CoreCompileInputs.cache
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\obj\Debug\RocketLeagueLifx.exe
+c:\users\benjiinator\documents\visual studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\obj\Debug\RocketLeagueLifx.pdb
+C:\Users\Benjiinator\Documents\Visual Studio 2017\Projects\RocketLeagueLifx\RocketLeagueLifx\obj\Debug\RocketLeagueLifx.Form1.resources
