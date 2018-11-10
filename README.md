@@ -1,8 +1,7 @@
 # Lifx-Rocket-League
 Lifx lights changing colors upon scoring a goal in rocket league. Colors of the lights depend on which team scored.
 
-I'm a 20 year old danish guy currently studying to become a datatechnician with specialty in programming.
-Last week i started working on this project. My goal was to change the color of my Lifx lights to the color of the scoring team.
+My goal was to change the color of my Lifx lights to the color of the scoring team.
 The process explained:
 
 "I started by making a program in C# that could trigger my lights to change color, for that i used the Lifx Api. When i had that in place i opened up Rocket League and cheat engine and started looking for the pointer values for each goal.
